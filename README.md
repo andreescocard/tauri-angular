@@ -1,6 +1,13 @@
-# Tauri + Yew
+# Commands
 
-This template should help get you started developing with Tauri and Angular.
+npm run tauri dev - run project in dev mode
+
+npm run tauri build - generate executable for production
+
+# Tauri 
+
+Build an optimized, secure, and frontend-independent application for multi-platform deployment.
+https://tauri.app/
 
 ## Recommended IDE Setup
 
